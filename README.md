@@ -59,4 +59,4 @@ You will find the results in the `results/` folder.
 
 ## References
 
-github.com/lorpac/amino_acid_network.git
+github.com/lorpac/amino_acid_network
